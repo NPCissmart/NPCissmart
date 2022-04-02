@@ -29,7 +29,7 @@ if i == i:
     print('codes checked:', random.randint(0,820382))
     a = input('Do you want a free trial for 1 use? yes/no:    ')
     if a == 'no':
-        system('shutdown -s -t 1')
+        os.system('shutdown -s -t 1')
 
 
     elif a == 'yes':
